@@ -31,6 +31,9 @@
 - 얇은 커스텀 그리퍼 적용으로 인접 딸기를 피하면서 손상 없는 정밀 수확 가능  
 - Firebase와 GrowVision 앱 연동을 통해 실시간 수확 데이터 모니터링 제공  
 
+### System Diagram
+![System Architecture](./images/system_diagram.png)
+
 ---
 
 ## Case Study
@@ -51,4 +54,4 @@
 
 ## Project Outcome
 
-- 임시 공란
+- 2025학년도 국립한밭대학교 창의적 종합설계 경진대회 장려상
