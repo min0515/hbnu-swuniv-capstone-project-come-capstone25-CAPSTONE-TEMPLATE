@@ -1,4 +1,4 @@
-<img width="137" height="52" alt="image" src="https://github.com/user-attachments/assets/b8027480-bebb-4c7e-a374-577abee4d646" /># 한밭대학교 컴퓨터공학과 Little Sentinels팀
+# 한밭대학교 컴퓨터공학과 Little Sentinels팀
 
 **팀 구성**
 - 20202066 안다은
