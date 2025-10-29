@@ -7,7 +7,7 @@ from collections import deque
 
 class FirebaseConnection:
     def __init__(self):
-        file_path = '/home/dfx/workspace/park/strawberry_detection_final/util/strawberry-detection.json'
+        file_path = '' # put your file path
         cred = credentials.Certificate(file_path)
         firebase_admin.initialize_app(cred)
 
@@ -77,4 +77,5 @@ class FirebaseConnection:
         else:
             n_cumul_harvest = self.last_log.get('n_cumul_harvest')
             
+
         return n_cumul_harvest
