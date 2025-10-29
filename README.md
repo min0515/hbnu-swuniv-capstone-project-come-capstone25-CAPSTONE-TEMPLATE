@@ -1,10 +1,10 @@
-# 한밭대학교 컴퓨터공학과 Little Sentinels팀
+<img width="137" height="52" alt="image" src="https://github.com/user-attachments/assets/b8027480-bebb-4c7e-a374-577abee4d646" /># 한밭대학교 컴퓨터공학과 Little Sentinels팀
 
 **팀 구성**
-- 20XX0001 안다은
-- 20XX0002 백민우
+- 20202066 안다은
+- 20201737 백민우
 - 20222008 조민서
-- 20XX0003 박동현
+- 20222278 박동현
 
 ## <u>Teamate</u> Project Background
 - ### 필요성
